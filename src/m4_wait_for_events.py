@@ -99,7 +99,7 @@ def sum_until_prime_input():
          The sum of the input integers is: 167
     """
     # -------------------------------------------------------------------------
-    # TODO: 2. Implement and test this function.
+    # DONE: 2. Implement and test this function.
     #   The testing code is already written for you (above).
     # -------------------------------------------------------------------------
 
@@ -107,7 +107,7 @@ def sum_until_prime_input():
 def run_test_next_prime():
     """ Tests the   next_prime    function. """
     # -------------------------------------------------------------------------
-    # TODO: 3. Implement this TEST function.
+    # DONE: 3. Implement this TEST function.
     #   It TESTS the  wait_for_prime  function defined below.
     #   Include at least  ** 6 **  tests. (We supplied 5 tests for you.)
     #
@@ -327,7 +327,7 @@ def prime_gap(m):
       :type m: int
     """
     # -------------------------------------------------------------------------
-    # TODO: 5. Implement and test this function.
+    # DONE: 5. Implement and test this function.
     #   The testing code is already written for you (above).
     #
     # IMPLEMENTATION REQUIREMENT:
@@ -339,7 +339,7 @@ def prime_gap(m):
 def run_test_wait_for_sum_of_cubes():
     """ Tests the   wait_for_sum_of_cubes    function. """
     # -------------------------------------------------------------------------
-    # TODO: 6. Implement this TEST function.
+    # DONE: 6. Implement this TEST function.
     #   It TESTS the  wait_for_sum_of_cubes  function defined below.
     #   Include at least  ** 8 **  tests. (We supplied 6 tests for you.)
     #
